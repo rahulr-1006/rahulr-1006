@@ -1,6 +1,6 @@
 ### hey, I'm Rahul 👋
 
-data scientist at Booz Allen Hamilton. these days that mostly means LLM pipelines and ML infra for federal platforms.
+ml engineer at Booz Allen Hamilton. these days that mostly means LLM workflows and ML infra for federal platforms.
 
 - building ML infra for a fraud prevention pipeline at a undisclosed agency: LLM orchestration, guardrails, keeping things from going sideways
 - hacked together a multi-agent prototype on Databricks that turns logistics data into parts recipes and inventory checks
