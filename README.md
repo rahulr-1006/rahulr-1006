@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hey, I'm Rahul 👋
 
-<!--
-**rahulr-1006/rahulr-1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist at Booz Allen Hamilton. I build LLM pipelines and ML infrastructure for federal platforms.
 
-Here are some ideas to get you started:
+- I work on the ML infrastructure for a fraud prevention pipeline at the U.S. Department of Veterans Affairs. I build the LLM orchestration layer and the guardrails.
+- I built a multi-agent prototype on Databricks that turns logistics data into parts recipes and inventory checks.
+- Before that, I built a document-intelligence pipeline for Fortive at Sogeti/Capgemini (metadata extraction, document matching, custom parsers).
+- I have a peer-reviewed paper in *Scientific Reports* (Nature Portfolio).
+- I placed Top 50 globally (15th in the USA) in the IMC Prosperity trading competition.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Right now:** game-theory simulations, sports betting models, and poker bots.
+
+B.S. Data Science, Virginia Tech · Active Secret clearance
+
+📫 [LinkedIn](https://linkedin.com/in/...) · rahulrengan4098@gmail.com
