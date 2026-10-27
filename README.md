@@ -16,7 +16,7 @@ data scientist at Booz Allen Hamilton. these days that mostly means LLM pipeline
 - ♠️ poker, plus Catan, where I'm a top 50 player in Virginia on Colonist
 - 🥾 always up for a hike
 - 💳 personal finance and travel rewards nerd
-- 🍱 foodie! trying to be more consistent with belt
+- 🍱 foodie! trying to be more consistent with beli!
 
 B.S. Data Science, Virginia Tech · active Secret clearance
 
