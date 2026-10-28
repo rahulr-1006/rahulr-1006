@@ -6,7 +6,7 @@ ml engineer at Booz Allen Hamilton. these days that mostly means LLM workflows a
 - hacked together a multi-agent prototype on Databricks that turns logistics data into parts recipes and inventory checks
 - orchestrated a document-intelligence pipeline for Fortive at Sogeti/Capgemini
 - got published in *Scientific Reports* (Nature Portfolio)
-- placed top 50 globally (15th in the US) in IMC Prosperity
+- placed top 50 globally (15th in the US) in IMC Prosperity 2025
 - hackathon regular, projects are on [Devpost](https://devpost.com/rahulrengan4098)
 
 **tinkering with right now:** LLM workflows, sports betting models, game theory sims
