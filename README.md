@@ -14,7 +14,7 @@ ml engineer at Booz Allen Hamilton. these days that mostly means LLM workflows a
 **when I'm not coding:**
 - 🎸 playing guitar
 - 🎧 audiophile & vinyl collector (current favorite record: 19 by Adele) 
-- ♠️ Poker player, play NLH 2/5 regularly and compete in tournaments when I can
+- ♠️ Poker player, play Live 2/5 and NL25 regularly, compete in tournaments when I can
 - 🧱 Catan, where I'm a top 50 player in Virginia on Colonist.io
 - 🥾 always up for a hike
 - 💳 personal finance and travel rewards nerd
