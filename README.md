@@ -9,7 +9,7 @@ ml engineer at Booz Allen Hamilton. these days that mostly means LLM workflows a
 - placed top 50 globally (15th in the US) in IMC Prosperity 2025
 - hackathon regular, projects are on [Devpost](https://devpost.com/rahulrengan4098)
 
-**tinkering with right now:** LLM workflows, sports betting models, game theory sims
+**tinkering with right now:** LLM workflows, sports betting models, game theory sims, congressional stock trading tracker
 
 **when I'm not coding:**
 - 🎸 playing guitar
